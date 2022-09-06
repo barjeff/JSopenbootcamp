@@ -1,0 +1,16 @@
+{
+  "name": "openjs",
+  "version": "1.0.0",
+  "description": "primer js open bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "Hola este es mi primer ejercicio con Node en el mejor Bootcamp de programacion del mundo index.js",
+    "saludar": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openjs"
+  ],
+  "author": "jeffer",
+  "license": "ISC"
+}
